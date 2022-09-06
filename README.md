@@ -8,5 +8,5 @@
 ## Contact me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 - Email: [![Email](https://img.shields.io/badge/vuminhthanh8501-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vuminhthanh8501@gmail.com)
 - Facebook: [![Facebook](https://img.shields.io/badge/VMTpld-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/VMTpld/)
-- Instagram: [![Instagram](https://img.shields.io/badge/VMTpld-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.facebook.com/VMTpld/)
+- Instagram: [![Instagram](https://img.shields.io/badge/VMTpld-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/VMTpld/)
 ---
